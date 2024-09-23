@@ -8,6 +8,7 @@ public class PrimaryController {
 
     @FXML
     Label korte;
+    //Sanyi
 
     @FXML
     private void switchToSecondary() throws IOException {
